@@ -5,6 +5,7 @@
 td,th{
     vertical-align: middle !important;
         text-align: center;
+        min-width: 300px;
 }
 
 svg{
